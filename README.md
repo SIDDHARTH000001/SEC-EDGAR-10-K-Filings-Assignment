@@ -1,7 +1,7 @@
 # SEC EDGAR 10-K RAG System
 
 This project implements a basic Retrieval-Augmented Generation (RAG) pipeline for querying SEC EDGAR 10-K filings.
-
+ 
 ## Models Tried
 - **LLMs**: 
   - `gemini-2.5-flash`
