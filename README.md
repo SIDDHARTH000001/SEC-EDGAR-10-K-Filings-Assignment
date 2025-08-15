@@ -14,3 +14,8 @@ This project implements a basic Retrieval-Augmented Generation (RAG) pipeline fo
 The system uses:
 - **Embedding model**: `all-MiniLM-L6-v2`
 - **Hybrid Search**: Dense embeddings + TF-IDF
+  
+## Output
+Generated files can be found in:
+- `output/`
+- `output_/`
