@@ -16,6 +16,5 @@ The system uses:
 - **Hybrid Search**: Dense embeddings + TF-IDF
   
 ## Output
-Generated files can be found in:
+### Structured Response files can be found in:
 - `output/`
-- `output_/`
